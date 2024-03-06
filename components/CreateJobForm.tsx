@@ -83,7 +83,7 @@ const { mutate, isPending } = useMutation({
           />
           <Button type='submit' className='self-end capitalize' disabled={isPending}>
              {isPending ? 'loading...' : 'create job'}
-            </Button>;
+            </Button>
         </div>
       </form>
   </Form>
