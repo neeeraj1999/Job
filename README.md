@@ -7,6 +7,7 @@ JobStat is a job tracking application designed to assist job seekers in managing
 - **Job Tracking**: Keep a record of all the jobs you have applied for with details such as position, company, and location.
 ![alt text](image-1.png)
 - **Status Updates**: Update the status of your job applications to reflect their current state, such as pending, interview set, or declined.
+![image](https://github.com/neeeraj1999/Jobstat/assets/53390132/c60fbde3-cbf7-4052-88d3-ae33fc619929)
 ![alt text](image-2.png)
 ![alt text](image-3.png)
 - **Statistics**: Visualize your job application process with charts that display monthly application statistics.
